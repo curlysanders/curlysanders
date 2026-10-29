@@ -8,7 +8,7 @@ I enjoy building reliable, maintainable applications and working with teams that
 ### 🛠️ What I work with
 
 - **PHP & Symfony** – My primary language and framework.
-- **Software architecture** – Domain-Driven Design, Hexagonal Architecture, CQRS and Event-Driven Architecture.
+- **Software architecture** – Domain-Driven Design, Hexagonal Architecture, CQRS, Event Sourcing and Event-Driven Architecture.
 - **Backend development** – APIs, messaging, integrations and asynchronous processing.
 - **Infrastructure & tooling** – AWS, Docker, CI/CD, PHPUnit, PHPStan, PHP-CS-Fixer and Deptrac.
 

@@ -10,7 +10,7 @@ I enjoy building reliable, maintainable applications and working with teams that
 - **PHP & Symfony** – My primary language and framework.
 - **Software architecture** – Domain-Driven Design, Hexagonal Architecture, CQRS, Event Sourcing and Event-Driven Architecture.
 - **Backend development** – APIs, messaging, integrations and asynchronous processing.
-- **Infrastructure & tooling** – AWS, Docker, CI/CD, PHPUnit, PHPStan, PHP-CS-Fixer and Deptrac.
+- **Infrastructure & tooling** – AWS, Docker, CI/CD, PHPUnit, PHPStan, PHP-CS-Fixer, Rector and Deptrac.
 
 I enjoy exploring architectural patterns and applying them where they make sense, without adding unnecessary complexity.
 

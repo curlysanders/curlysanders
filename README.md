@@ -16,10 +16,9 @@ I enjoy exploring architectural patterns and applying them where they make sense
 
 ### 🔭 Side projects
 
-A couple of things I'm tinkering with in my spare time:
+What I'm tinkering with in my spare time:
 
 - [**Job Application Tracker**](https://github.com/curlysanders/job-application-tracker) – An open-source, self-hosted and privacy-first application for tracking job applications, built with Symfony.
-- **MediaInfo for Synology DSM** – An integration I'm developing to make MediaInfo's detailed media file information accessible directly from Synology's File Station.
 
 ### 🤖 Current interests
 
